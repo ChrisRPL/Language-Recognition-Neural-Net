@@ -1,0 +1,16 @@
+Funktionsweise
+
+Struktur von IPMI
+Herzstück des IPMI ist eine komplexe anwendungsspezifische integrierte Schaltung, der so genannte Baseboard Management Controller (BMC), der über den Intelligent Platform Management Bus (IPMB) mit den grundlegenden Hardware-Komponenten des Servers, den erforderlichen Kommunikations-Schnittstellen wie dem Universal Serial Bus, einer Netzwerk-Schnittstelle sowie einer Reihe von Sensoren verbunden ist. Sobald der Server mit Standby-Spannung versorgt wird, startet der BMC (vergleichbar mit dem Booten) und führt dabei eine Reihe grundlegender Tests der Server-Hardware aus.
+
+Obwohl sich der Server selbst noch im ausgeschalteten Zustand befindet, kann er ab diesen Zeitpunkt bereits über eine serielle Verbindung oder ein lokales Netzwerk grundlegend administriert bzw. überwacht werden.
+
+Die Funktionen im ausgeschalteten Zustand sind unter anderem:
+
+Steuerung der Betriebszustände (Server starten, Herunterfahren …)
+Auslesen und Herunterladen von Logfiles
+Die Überwachung grundlegender Sensorwerte wie zum Beispiel Temperatur
+Übermittlung von Statusmeldungen via SNMP
+Im laufenden Betrieb kann der Server unabhängig davon, ob ein und welches Betriebssystem installiert ist, noch tiefgreifender administriert und überwacht werden. Mittels SOL (englisch Serial Over LAN) ist unter anderem auch ein Zugriff auf das BIOS möglich. Optional können per KVM-Switch (englisch Keyboard, Video, Mouse) auch der komplette Inhalt des Monitors sowie Maus- und Tastatureingaben übertragen werden. Somit kann der Administrator auch sehr grundlegende Einstellungen im Bios des Servers oder des RAID-Controllers mittels Fernsteuerung vornehmen.
+
+Im betriebsfähigen Zustand des Rechners stehen Funktion wie die Überwachung von Sensorwerten wie Spannung, Temperatur, Lüfterdrehzahl oder auch die Nutzung vom KVM-Switch unabhängig vom

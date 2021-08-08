@@ -1,0 +1,44 @@
+a maladie hémolytique du nouveau-né est causée, pendant la grossesse, par l'action sur les érythrocytes (=globules rouges) fœtaux d'anticorps provenant de la mère. Ces anticorps sont dirigés contre un ou plusieurs antigènes de groupes sanguins, absents chez la mère mais présents chez le fœtus. Ces antigènes « incompatibles » sont hérités du père. Les anticorps maternels peuvent être naturels (anticorps du système ABO, ou parfois d'autres systèmes, anti-Cw, E , M...)1, ou peuvent résulter d'une immunisation (mode d'apparition des anticorps). Seuls les anticorps d'immunisation (IgG) peuvent être cause de maladie hémolytique du fœtus et du nouveau-né.
+
+Il existe deux modes d'immunisation.
+
+Immunisation fœto-maternelle
+Le premier est appelé « immunisation fœto-maternelle ». Elle est causée par l'irruption dans la circulation maternelle d'hématies (globules rouges) provenant du fœtus ou du nouveau-né. Si ces hématies portent un antigène de groupe sanguin (hérité du père) que la mère ne possède pas elle-même, l'immunisation est possible. Elle se déclenche le plus souvent à l'occasion d'un accouchement ou d'une interruption de grossesse (spontanée, ou volontaire : IVG). Elle peut aussi se produire pendant la grossesse, de manière apparemment spontanée, ou favorisée par une intervention obstétricale (cerclage, prélèvement de liquide amniotique) ou un traumatisme abdominal. Elle peut être efficacement prévenue par une injection préventive d'immunoglobulines spécifiques anti-D, dans le cas typique d'une femme de groupe Rhésus négatif et d'un nouveau-né ou fœtus Rhésus positif1.
+
+Transfusion sanguine incompatible avec le groupe sanguin de la mère
+Le second mode d'immunisation est une transfusion non compatible avec le groupe sanguin de la future mère (phénotype) : sang Rh Positif D, ou Kell Positif, ou petit c transfusé à une femme qui ne possède pas ces antigènes : D (RH1), c (RH4) ou K (KEL1)1. Les précautions et règles transfusionnelles en vigueur ont rendu ce mode d'immunisation exceptionnel.
+
+Lors de la grossesse suivante, les anticorps de la mère passent le placenta et se fixent sur les hématies du fœtus si elles portent les antigènes correspondants. À chaque nouvelle naissance d'un enfant incompatible, les anticorps de la mère sont renforcés, et l'atteinte de l'enfant suivant est plus grave.
+
+C'est pourquoi la recherche des anticorps irréguliers (ou agglutinines irrégulières) fait partie de la surveillance obligatoire des grossesses.
+
+À la naissance, l'incompatibilité est prouvée chez l'enfant par la détermination de ses groupes sanguins ABO, RH, Kell, et d'autres systèmes selon les anticorps maternels dépistés, un test positif à l'antiglobuline encore appelé test de Coombs direct1, et parfois une technique d'élution mettant en évidence la présence des anticorps de la mère fixés sur les globules rouges de l'enfant. Enfin la numération formule sanguine (NFS) et le dosage de la bilirubine (libre et conjuguée) permettent le premier bilan du retentissement biologique de cette incompatibilité fœto-maternelle.
+
+Clinique
+Selon les anticorps en cause, leur classe (IgG ou IgM) ou sous-classe (IgG 1, 2, 3, ou 4), leur titre ou leur quantité (dosage pondéral), l'atteinte de l'enfant sera plus ou moins importante, uniquement si ce dernier est incompatible.
+
+Il est maintenant possible de déterminer les phénotypes D ou RH1, c ou RH4 du fœtus par examen en biologie moléculaire sur un prélèvement de sang maternel, à partir de la douzième semaine d'aménorrhée, et Kell ou KEL1 à partir de la treizième semaine.
+
+Certains anticorps dépistés chez la mère ne présentent aucun danger pour l'enfant. Il s'agit d'anticorps souvent naturels, et/ou de type IgM qui ne passent pas la barrière placentaire, et/ou dont l'antigène cible n'est pas développé chez le fœtus, anti-Cw, anti-M, anti-LE, par exemple.
+
+D'autres n'entraînent qu'un ictère (jaunisse), exceptionnellement grave, mais le plus souvent modéré chez le nouveau-né, en particulier l'incompatibilité ABO (mère O, enfant A ou B). Ce type d'incompatibilité est le plus souvent diagnostiqué par une technique d'élution, permettant de mettre en évidence la fixation sur les globules de l'enfant des anticorps IgG d'origine maternelle.
+
+D'autres anticorps (anti-D ou RH1, anti-petit c ou RH4, anti-KEll ou KEL1...) entraînent un ictère, qui peut être grave et causer des séquelles neurologiques, il s'agit de l'ictère nucléaire, et une anémie plus ou moins sévère. Cette anémie peut nécessiter une transfusion, voire une exsanguino-transfusion à la naissance, traitant à la fois l'ictère et l'anémie, et ôtant en grande partie les anticorps maternels présents. Cette intervention est rare maintenant.
+
+Quelle que soit l'incompatibilité (ABO, RH, Kell ou FY...), une surveillance du nouveau-né s'impose (NFS, TDA, surveillance du taux de la bilirubine) pour éviter l'apparition d'un ictère nucléaire« http://www.academie-medecine.fr/publication100036233/ »(Archive • Wikiwix • Archive.is • Google • Que faire ?).
+
+Dans les cas les plus graves, le fœtus peut être atteint d'anémie sévère, source d'insuffisance cardiaque, et d'œdèmes (présence d'eau dans les tissus) généralisés, caractérisant l'anasarque fœto-placentaire. Une anémie grave du fœtus peut être corrigée par transfusion(s) ou exsanguino-transfusion(s) intra-utérine(s). Ces cas sont rares, mais ils nécessitent la collaboration de l'obstétricien et d'un Centre de référence, CNRHP par exemple.
+
+La surveillance des femmes enceintes présentant un anticorps « à risque » et un fœtus susceptible d'être incompatible (phénotype paternel, phénotype RH D ou Kell fœtal sur sang maternel) se fait par :
+
+des dosages réguliers de l'anticorps, dont le taux est bien corrélé à l'atteinte fœtale,
+la surveillance du fœtus par échographie, mesure Doppler de la vitesse de la circulation sanguine du fœtus au niveau de l'artère cérébrale moyenne (corrélée avec la gravité de l'anémie), enregistrement du rythme cardiaque fœtal,
+le prélèvement et l'examen du liquide amniotique (amniocentèse), acte invasif à éviter autant que possible, est très rarement indispensable.
+Lors d'immunisations très importantes, en particulier anti-D, anti-c ou anti-K une césarienne sera pratiquée avant terme pour soustraire l'enfant à l'action néfaste des anticorps maternels.
+
+Prévention
+En cas de transfusion sanguine chez une fille ou une femme susceptible d'avoir un enfant, il faut respecter les phénotypes Rhésus et Kell. C’est-à-dire ne pas apporter un antigène du donneur absent chez le receveur.
+
+À la naissance d'un enfant Rhésus D positif, chez une femme Rhésus D négatif, faire une injection d'immunoglobulines anti-D (Rhophylac en France, RhoGam en Belgique, Winrho au Canada), immunoglobulines qui empêcheront la femme de s'immuniser contre les hématies de son enfant qui sont passées dans sa circulation au moment de l'accouchement. Il est également proposé depuis 2005, afin d'éviter les immunisations spontanées de la fin de grossesse, de faire cette prévention soit par une injection à 300 μg d'anti-D (1 500 UI) à la vingt-huitième ou par deux injections de 200 μg (1 000 UI) à la vingt-huitième et à la trente-deuxième semaine de gestation. Elle doit être également appliquée lorsqu'il y a un risque de passage d'hématies fœtales dans la circulation maternelle (cerclage, amniocentèse, traumatisme abdominal, en particulier). La prévention Rhésus doit aussi être scrupuleusement appliquée à l'occasion de toute interruption de grossesse (IVG en particulier) d'une femme Rhésus négatif. Si la femme est déjà immunisée, la prévention n'a aucune action et est donc inutile.
+
+Pratiquée à la naissance depuis la fin des années 1960, elle a considérablement réduit l'incidence de la maladie hémolytique du fœtus et du nouveau-né due à l'antigène Rh D. En 20 ans, de 1972 à 1992, le nombre d'exsanguino-transfusions pratiquées en région parisienne par les équipes du Centre National de Référence d'Hémobiologie Périnatale a été divisé par 20[réf. nécessaire], et en 30 ans le nombre d'immunisations a été divisé d'un facteur 6 à 10 [1] [archive].

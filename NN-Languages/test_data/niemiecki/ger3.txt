@@ -1,0 +1,35 @@
+Lactase oder Laktase (Gen-Name LCT; (englisch) auch Lactase-Phlorizin-Hydrolase, Abkürzung LPH) heißt ein im Darm vorkommendes Enzym, das Lactose (Milchzucker) in ihre Bestandteile Galactose (Schleimzucker) und Glucose (Traubenzucker) spaltet. Ohne diese chemische Reaktion können die Bestandteile des Milchzuckers nicht durch die Dünndarmschleimhaut aufgenommen werden. Beim Menschen wird das Enzym normalerweise im Kindesalter im Dünndarm produziert, in Europa bei den meisten Menschen auch später im Erwachsenenalter. Ein Mangel an Lactase kann mehrere Ursachen haben (siehe Laktoseintoleranz) und führt bei zwei Drittel der betroffenen Personen zu Verdauungsproblemen, wenn Milchzucker aufgenommen wird.
+
+Die Lebensmittelindustrie verwendet Enzyme, die ebenfalls Lactose hydrolysieren können und dem Oberbegriff β-Galactosidasen zugeordnet werden. Im wissenschaftlichen Sprachgebrauch sollte Lactase nur für β-Galactosidasen aus Säugetieren verwendet werden. Da die Herstellung menschlicher Lactase unwirtschaftlich wäre, werden ausschließlich mikrobielle β-Galactosidasen aus sicheren und zugelassenen Bakterien (Escherichia coli K-12), Hefen (Kluyveromyces lactis) oder filamentösen Pilzen biotechnisch für die Lebensmitteltechnik hergestellt.[2] Die Hydrolyse von Lactose führt zur Reduktion des Milchzuckers, wobei Glucose und Galactose entstehen, die in lactosefreier Milch zu einer erhöhten Süße beitragen. Milchzuckerfreie Lebensmittel werden nicht nur an lactoseintolerante Personen verkauft, milchzuckerfreies Eis hat beispielsweise günstigere Verarbeitungseigenschaften und durch andere Kristallisationseigenschaften eine feinere Beschaffenheit.[3][4]
+
+Neben der Lactaseaktivität hat das Enzym eine weitere Glycosylceramidase-Aktivität, weshalb es in der Fachliteratur als Lactase-Phlorizinhydrolase bezeichnet wird. Strukturell besteht das LCT-Gen aus vier ähnlichen Domänen, wobei die Lactaseaktivität an der vierten und die Phlorizinhydrolase an der dritten Domäne stattfindet.[5]
+
+Als integrales Membranprotein ist LPH in der Bürstensaummembran der säulenförmig angeordneten Hauptzellen des Zottenepithels des Dünndarms aller Säugetiere lokalisiert. Mutationen im LCT-Gen können über eine Verringerung der LPH-Aktivität Ursache für erbliche Varianten von Lactoseintoleranz sein. Gewisse andere Mutationen führen dagegen über eine Erhöhung der LPH-Produktion bzw. ihrer Beibehaltung im Erwachsenenalter zur Laktasepersistenz vor allem bei Bewohnern der nördlichen Hemisphäre. Der Normalzustand jedoch ist eine Verringerung der LPH-Produktion nach der Stillzeit.
+
+
+Inhaltsverzeichnis
+1	Evolution
+2	Biosynthese
+3	Katalysierte Reaktion
+4	Industrielle Nutzung
+5	Weblinks
+6	Einzelnachweise
+Evolution
+Aufgrund der vierfachen Glycosidase-1-Domäne ist von zwei Genverdopplungen in der Evolution des LCT-Gens auszugehen. Dass die letzte dieser Verdopplungen noch vor der Entwicklung der Wirbeltiere stattfand, ist der Tatsache zu entnehmen, dass bereits die zu LCT orthologen Gene in mehreren Fischarten vier Glycosidase-1-Domänen aufweisen.[6]
+
+Üblicherweise wird bei Menschen Lactase nur in Säuglingen gebildet. In Nordeuropa wird Lactase auch in 90 % der Erwachsenen gebildet.[7] Für die Evolution der Lactasepersistenz-Mutation, die zur Herstellung von Lactase auch in Erwachsenen führt, ist ihre Selektion in milchtrinkenden Kulturen ursächlich. Die von Beja-Pereira und anderen propagierte Koevolution mit einer ähnlichen Mutation in Milchkühen ist heute die wahrscheinlichste Erklärung für den hohen Anteil der Persistenz in der menschlichen Bevölkerung und ihr Verbreitungsprofil.[8] Die Laktasepersistenz-Mutation breitete sich in Nordeuropa innerhalb von 3000 Jahren von etwa 10 % der Erwachsenen auf 90 % der Erwachsenen aus.[7]
+
+Biosynthese
+Das für LPH codierende Gen LCT liegt auf dem zweiten Chromosom (2q21). Das LCT-Gen erstreckt sich über 17 Exons und 49.340 Basenpaare. Nach der Transkription entsteht mRNA, die 6274 Basen enthält und zu einem 1927 Aminosäuren langen Molekül Pre-pro-LPH übersetzt wird. Dieses enthält vier ähnliche Glycosidase-1-Domänen und eine Signalsequenz, die bewirkt, dass Prepro-LPH vom ER zur Zellmembran transportiert wird. Nach Entfernung der Signalsequenz (19 Aminosäuren) zerschneiden Peptidasen das Molekül in zwei Teile: LPHβ (1061 Aminosäuren) und ein weiteres Protein LPHα (847 Aminosäuren), das wahrscheinlich für den Transport des LPHβ-Dimers zur Membran notwendig ist, das zuletzt noch phosphoryliert und glycosyliert wird.[9][10][11][12]
+
+Katalysierte Reaktion
+
+Milchzuckerspaltung in Galactose (1) und Glucose (2)
+Lactose wird in Glucose und Galactose gespalten. Die optimalen Bedingungen für die menschliche Laktase liegen bei einem pH-Wert von sechs[13] und einer Temperatur von 25 °C.[14]
+
+Industrielle Nutzung
+Kommerziell produzierte Lactase wird aus Hefepilzen wie Kluyveromyces fragilis gewonnen. Das so gewonnene Enzym wird in Form von Tabletten und Kapseln angeboten, damit Menschen mit Lactoseintoleranz Milchprodukte zu sich nehmen können. Auch gibt es lactosefreie Milch, bei welcher die Lactose bereits durch Zusatz von Lactase aufgespalten wurde; damit ist diese Milch für Menschen genießbar, denen das Enzym Lactase fehlt.
+
+In der Herstellung von Speiseeis wird Lactase eingesetzt, da die Spaltprodukte Glucose und Galactose süßer sind als die Lactose und somit der Zuckerzusatz eingeschränkt werden kann. Außerdem kristallisiert Lactose bei Temperaturen, wie sie im Speiseeis vorliegen, während die Spaltprodukte weiterhin gelöst vorliegen und dem Eis so eine feinere Beschaffenheit verleihen.
+
+Mengenangaben werden in FCC-Einheiten ausgedrückt. 1000 FCC-Einheiten können unter optimalen Bedingungen 5 Gramm Milchzucker abbauen.[15] Dabei kommt es unter anderem auf die Viskosität der Lösung an. In dickflüssigen Lösungen wird eine größere Menge des Enzyms benötigt. Da Milch im sauren Milieu des Magens ausflockt, benötigt man ebenfalls eine größere Menge Lactase, um die Lactose vollständig aufzuspalten, wenn man Lactase direkt beim Konsum von Milchprodukten zu sich nimmt.
