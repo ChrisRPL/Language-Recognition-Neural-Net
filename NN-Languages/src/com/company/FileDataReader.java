@@ -20,7 +20,7 @@ public class FileDataReader implements DataReader {
                 String decisionAttribute;
 
                 @Override
-                public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
+                public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs){
                     decisionAttribute = dir.getFileName().toString();
 
                     return FileVisitResult.CONTINUE;
@@ -39,7 +39,7 @@ public class FileDataReader implements DataReader {
                 }
 
                 @Override
-                public FileVisitResult visitFileFailed(Path file, IOException exc) throws IOException {
+                public FileVisitResult visitFileFailed(Path file, IOException exc) {
                     return FileVisitResult.CONTINUE;
                 }
             });
@@ -50,7 +50,7 @@ public class FileDataReader implements DataReader {
         return observationData;
     }
 
-    public Vector<Double> prepareDataFromFile(Path file) throws IOException {
+    private Vector<Double> prepareDataFromFile(Path file) throws IOException {
         int[] lettersCount = new int['z' + 1];
         int allLetters = 0;
         Vector<Double> data = new Vector<>();
@@ -64,6 +64,10 @@ public class FileDataReader implements DataReader {
             }
         });
 
+        return getLettersProportions(lettersCount, allLetters, data);
+    }
+
+    private static Vector<Double> getLettersProportions(int[] lettersCount, int allLetters, Vector<Double> data) {
         for (int value : lettersCount) {
             allLetters += value;
         }
@@ -77,7 +81,7 @@ public class FileDataReader implements DataReader {
         return data;
     }
 
-    public static Vector<Double> prepareDataFromText(String text) throws IOException {
+    public static Vector<Double> prepareDataFromText(String text) {
         int[] lettersCount = new int['z' + 1];
         int allLetters = 0;
         Vector<Double> data = new Vector<>();
@@ -91,15 +95,6 @@ public class FileDataReader implements DataReader {
         }
 
 
-        for (int value : lettersCount) {
-            allLetters += value;
-        }
-
-        for (int i = 'a'; i <= 'z'; i++) {
-            data.add(lettersCount[i] / (double) allLetters);
-        }
-        data.add(-1.0);
-
-        return data;
+        return getLettersProportions(lettersCount, allLetters, data);
     }
 }

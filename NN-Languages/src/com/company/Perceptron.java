@@ -46,7 +46,7 @@ public class Perceptron {
     }
 
     public void trainPerceptron(List<Observation> trainingData, int limit, double learningRate){
-        int goodPredicted = 0;
+        int goodPredicted;
 
         for (int i=0; i<limit; i++) {
             goodPredicted = 0;
@@ -72,6 +72,6 @@ public class Perceptron {
     }
 
     public String toString(){
-        return (String) decisionAttribute;
+        return decisionAttribute;
     }
 }

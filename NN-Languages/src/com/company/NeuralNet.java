@@ -11,7 +11,7 @@ public class NeuralNet {
     private List<Observation> testInput;
     private int nnLimit;
 
-    public NeuralNet(String trainingFilePath, String testFilePath, int nnLimit) throws IOException {
+    public NeuralNet(String trainingFilePath, String testFilePath, int nnLimit){
         FileDataReader dataReader = new FileDataReader();
 
         this.perceptrons = new ArrayList<>();
@@ -29,7 +29,7 @@ public class NeuralNet {
 
     }
 
-    public void testNN() throws IOException {
+    public void testNN() {
         int goodChecked = 0;
         double efficiency;
         List<String> allGoodExamples = new ArrayList<>();
@@ -58,7 +58,7 @@ public class NeuralNet {
         efficiency = goodChecked / (double) testInput.size() * 100;
 
         for (Perceptron perceptron : perceptrons){
-            long activated=0, all=0, negativeAsPositive=0;
+            long activated, all, negativeAsPositive=0;
             AtomicLong badPredicted = new AtomicLong();
             errorsMatrix.get(perceptron.getDecisionAttribute()).forEach((key, value) -> {
                 if (!key.equals(perceptron.getDecisionAttribute()))
@@ -95,7 +95,7 @@ public class NeuralNet {
     }
 
 
-    public void buildNeuronLayer() {
+    private void buildNeuronLayer() {
         Set<String> uniqueDecisionAttributes = new HashSet<>();
         trainingInput.forEach(e -> uniqueDecisionAttributes.add(e.getDecisionAttribute()));
 
@@ -107,7 +107,7 @@ public class NeuralNet {
         }
     }
 
-    public String predictObservations(String text) throws IOException {
+    public String predictObservations(String text) {
         ThresholdFunction thresholdFunction = new ThresholdFunction();
         List<Double> attributes = FileDataReader.prepareDataFromText(text);
 
@@ -125,7 +125,7 @@ public class NeuralNet {
 
     }
 
-    public String predictObservations(List<Double> input) throws IOException {
+    private String predictObservations(List<Double> input){
         ThresholdFunction thresholdFunction = new ThresholdFunction();
 
         String decision = "";
